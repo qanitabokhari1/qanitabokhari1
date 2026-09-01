@@ -35,6 +35,15 @@ Model, alongside strong manual, API, database, and mobile testing.
 - **Debugging:** Charles Proxy (iOS), Chucker (Android)
 - **AI Tools:** Claude, Gemini, ChatGPT
 
+## 📈 Why Clients Hire Me
+
+* **Fast understanding of requirements** — I quickly grasp product and business logic, translating requirements into thorough test coverage without long back-and-forth.
+* **End-to-end QA ownership** — From test strategy and risk-based planning to automation, defect management, and release sign-off, I own quality across the full lifecycle.
+* **Cross-domain experience** — Proven track record testing fintech, banking, healthcare, transportation, and internal audit platforms, adapting quickly to new domains and compliance needs.
+* **Automation from scratch** — I build maintainable automation frameworks (Selenium, Playwright, Pytest, Cypress) using the Page Object Model, even in projects with no existing QA foundation.
+* **Clear, actionable reporting** — I document findings in formal reports and communicate defects, risks, and release-readiness clearly to both technical and non-technical stakeholders.
+* **Reliable & proactive** — Clients trust me to work independently, meet sprint commitments, and stay engaged throughout the project lifecycle.
+
 ## 🌍 Domains Covered
 
 Fintech & Payments • Banking • Transportation & Logistics • Internal Audit & Compliance •
