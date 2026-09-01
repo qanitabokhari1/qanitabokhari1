@@ -44,6 +44,32 @@ Model, alongside strong manual, API, database, and mobile testing.
 * **Clear, actionable reporting** — I document findings in formal reports and communicate defects, risks, and release-readiness clearly to both technical and non-technical stakeholders.
 * **Reliable & proactive** — Clients trust me to work independently, meet sprint commitments, and stay engaged throughout the project lifecycle.
 
+## 💬 What People Say
+
+> "Working with Qanita again has been an absolute pleasure. She consistently demonstrates professionalism, strong attention to detail, and excellent communication. Her QA testing is thorough and well-documented, and she always delivers on time."
+>
+> — Client, WordPress Website Tester Project
+
+---
+
+> "I just wanted to say that working with her was a great experience. I've worked with many contractors in the past, and she was by far the most honest, task-oriented, and reliable person I've worked with. She exceeded all of my expectations."
+>
+> — Client, Playwright E2E Testing Project
+
+---
+
+> "I had great experience working with Qanita. She is an excellent problem solver and also always finds the time to provide summaries and document her findings. I also enjoy her proactive approach and clear communication skills."
+>
+> — Client, QA Automation with Playwright Project
+
+---
+
+> "Qanita ramped up on our platform incredibly quickly and delivered meaningful impact right from the start. She is highly skilled, disciplined, and very cooperative throughout the entire QA cycle. A dependable QA partner, and someone I would be glad to work with again."
+>
+> — Client, QA Engineer for SAAS Platform Project
+
+---
+
 ## 🌍 Domains Covered
 
 Fintech & Payments • Banking • Transportation & Logistics • Internal Audit & Compliance •
