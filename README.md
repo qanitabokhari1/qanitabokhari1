@@ -48,7 +48,7 @@ Field Service & Workforce Tech • Media & Video Editing
 
 ## 🎓 Education
 
-- MS in Software Engineering (Continued)
+- MS in Software Engineering
 - BSc in Computer Science, University of Central Punjab (UCP), Lahore
 
 ## 🤝 Let's Connect
