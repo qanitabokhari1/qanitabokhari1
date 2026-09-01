@@ -53,8 +53,6 @@ Field Service & Workforce Tech • Media & Video Editing
 
 ## 🤝 Let's Connect
 
-- LinkedIn: _add your link here_
-- Email: _add your email here_
-- Portfolio: _add your link here_
-
+- LinkedIn: [linkedin.com/in/qanita-bokhari-qb99](https://www.linkedin.com/in/qanita-bokhari-qb99/)
+- Email: qanita.bokhari.com
 ---
